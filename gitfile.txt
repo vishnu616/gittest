@@ -1,4 +1,7 @@
 My git user name is vishnu616
 My git password is Ps#18rg#11
 Hi this is vishnu
+<<<<<<< HEAD
 Pushing files to remote repository
+=======
+>>>>>>> d74a7b23aff23c03f3fa64277eff5d5383773dec
